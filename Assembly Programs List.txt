@@ -1,0 +1,30 @@
+; Q1 Write a program which displays the contents of given text file
+; Q2 Write a program that stores the given data in a file told by the user 
+; Q3 Write a program that copies the data of one file to another file the source file name and the destination file name are retrieve from the user 
+; Q4 Write a program that displays the required information of given file 
+        ; -File size
+        ; -Total number of small letters
+        ; -Total number of capital letters
+        ; -Total number of digits
+        ; -Total number of spaces
+; Q5 Write a program that displays the length of given string
+; Q6 Write a program that copies the one string to another string 
+; Q7 Write a program that takes to string from the user and diplay after concatinating them
+; Q8 Write a program which compares to strings and displays the string are equal or not
+; Q9 Write a program which takes a character from the user and finds its location in the given string
+; Q10 Write a program which converts the small letters to capital letters in a given string
+; Q11 Write a program which converts the capital letters to small letters in a given string
+; Q12 Write a program that moves the data from one string to another string 
+; Q13 Write a program which accept only small letters
+; Q14 Write a program which accept only capital letters
+; Q15 Write a program that accept only numbers
+; Q16 Write a program that convert the letter into capital at input time 
+; Q17 Write a program that convert the letter into small at input time
+; Q18 Write a program accept only alpha-numaric input 
+; Q19 Write a program that displays the total numbers of vowels in the given data
+; Q20 Write a program that displays the ASCII character from 0 to 255
+; Q21 Write a program that displays the ASCII character of given code 
+; Q22 Write a program that displays the ASCII code of given character
+; Q23 Write a program that encrypt the given data and store encrypted data into a file(i)
+; Q24 Write a program that decrypt the encrypted data from file and displays it 
+; Q25 Write a program that gets a string from the user and display it's binary format.
